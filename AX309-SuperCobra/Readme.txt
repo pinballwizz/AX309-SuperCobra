@@ -1,7 +1,7 @@
 Super Cobra for the AX309 Clone Dev Board.
 
 Notes:
-Setup for 2 player arcade controls (4 switches) (Left-Right-Fire-Bomb).
+Setup for 2 player arcade controls (6 switches) (Left-Right-Up-Down-Fire-Bomb).
 Each switch is connected one side to GPIO Header J2 and other side to VCC 3.3v
 Pin Header locations are specified in the "ax309.ucf" File.
 Left and Right Audio outputs are on the J2 Header.
